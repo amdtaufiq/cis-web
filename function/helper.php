@@ -1,5 +1,5 @@
 <?php
 
-    define("BASE_URL","http://localhost/sibiko/");
+    define("BASE_URL","http://localhost/sibiko/sibiko-web/");
 
     
